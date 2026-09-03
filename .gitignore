@@ -1,0 +1,6 @@
+*.log
+build/
+.env
+.DS_Store
+# To untrack a committed file
+git rm --cached <file>
